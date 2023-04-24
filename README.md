@@ -78,5 +78,5 @@ PROGRAM
 
 Output of the simulation :
 
-[My image<img width="346" alt="Screenshot 2023-04-24 180352" src="https://user-images.githubusercontent.com/117335482/233998801-0fb411d8-ec3b-4fd9-b948-b26e977b10c8.png">
+<img width="346" alt="Screenshot 2023-04-24 180352" src="https://user-images.githubusercontent.com/117335482/233998801-0fb411d8-ec3b-4fd9-b948-b26e977b10c8.png">
 
